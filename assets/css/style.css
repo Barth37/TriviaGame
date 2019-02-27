@@ -1,0 +1,22 @@
+body {
+    background-image: url(../images/trivial.jpg);
+}
+
+.wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+    background-color: yellow;
+
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+    color: blue;   
+}
+
+#timeLeft {
+    text-align: center;
+    color: blue;
+}
